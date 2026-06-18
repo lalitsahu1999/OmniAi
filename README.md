@@ -267,6 +267,35 @@ Generate repository structure using the implementation prompt.
 
 ---
 
+# Quick Start For Claude Code
+
+Before generating any code:
+
+1. Read README.md
+2. Read PROJECT_STATUS.md
+3. Read all files under /docs
+4. Read docs/17_MASTER_IMPLEMENTATION_PROMPT.md
+
+Follow the implementation order defined in the implementation prompt.
+
+Always update PROJECT_STATUS.md after completing a module.
+
+# AI Development Rules
+
+The repository is developed primarily using AI-assisted development.
+
+Requirements:
+
+- Production Ready Code Only
+- No Placeholder Implementations
+- No Mock Services
+- No TODO Comments
+- TypeScript Strict Mode
+- Responsive UI Required
+- Mobile First Design
+- Modular Architecture
+- Reusable Components
+
 # License
 
 Private Project
